@@ -8,17 +8,6 @@ I’m a passionate individual currently transitioning from a career in **Health,
 - Data Visualization and Business Intelligence Tools  
 - Environmental sustainability and how data can be leveraged for impact
 
-🌱 **Currently Learning**  
-- Python for Data Analysis  
-- SQL for querying databases  
-- Data visualization tools like Power BI and Tableau  
-- Machine Learning basics
-
-💞️ **Looking to Collaborate On**  
-- Data analysis projects that require creative problem-solving  
-- Open-source projects focused on data science, analytics, or automation  
-- Research initiatives in sustainability and data-driven solutions
-
 📫 **How to Reach Me**  
 - LinkedIn: www.linkedin.com/in/ahmad-zaenal-hayat/
 - Email: a.zaenalhayat@gmail.com
@@ -26,6 +15,24 @@ I’m a passionate individual currently transitioning from a career in **Health,
 
 ⚡ **Fun Fact**  
 Before diving into data, I spent years ensuring the safety and well-being of people in various industries. Now, I aim to make data-driven decisions that create safer, smarter environments!
+
+
+
+
+<div align="left">
+  <a href="mailto:a.zaenalhayat@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-zaenal-hayat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/azh.hayat/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mobile.twitter.com/azhhayat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
 
@@ -50,4 +57,5 @@ Before diving into data, I spent years ensuring the safety and well-being of peo
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AZHayat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
